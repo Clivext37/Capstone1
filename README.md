@@ -1,1 +1,2 @@
 "# Capstone1" 
+This Capstone Project is a milestone in your learning so far!Inthistask,youwillbe consolidating the knowledge you have gained and applying it to a real-world situation! This Capstone Project will allowyoutodemonstrateyourcompetencein using variables, various data types and if-elif-else statements. It is worth spending time and effort tomakethisaprojectthatyoucanbeproudof!Itcouldwellbethe                           first project that you add to your developer portfolio!
